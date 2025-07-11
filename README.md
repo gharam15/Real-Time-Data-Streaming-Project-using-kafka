@@ -34,7 +34,7 @@ Edit
 
 ---
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### 1. Clone the repo
 
@@ -77,7 +77,7 @@ Kafka Connect
 
 PostgreSQL
 
-📥 Configure Sink Connector
+ Configure Sink Connector
 Edit the pg-snowflake-sink.json to include:
 
 snowflake.url.name
